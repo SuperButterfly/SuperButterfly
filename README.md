@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, Nice to meet you.
 </h1>
-<h2 align="center">I am a Web & Mobile & Blockchain Developer.</h2>
+<h2 align="center">I am a Web | Mobile | Blockchain Developer.</h2>
 
 <p align="center">
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
