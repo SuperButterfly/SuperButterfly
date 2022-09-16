@@ -13,4 +13,5 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=EricLee4989&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
+![Eric Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricLee4989&theme=radical&hide_border=true&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EricLee4989&theme=radical&hide_border=true)](https://git.io/streak-stats)
