@@ -13,4 +13,4 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=EricLee4989&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ericlee4989&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EricLee4989&theme=radical&hide_border=true)](https://git.io/streak-stats)
